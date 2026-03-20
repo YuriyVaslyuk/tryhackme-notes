@@ -1,6 +1,6 @@
 # TryHackMe Notes
 
-Notes from completed TryHackMe rooms, written in plain English.
+Notes from completed TryHackMe rooms.
 Currently working through the Cyber Security 101 path.
 
 ## Completed Rooms
